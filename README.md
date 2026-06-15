@@ -20,10 +20,13 @@ This repository provides practical templates, AI prompts, learning roadmaps and 
 * Training Manager Interview Questions
 * Learning & Development Competency Questions
 
-### Learning Roadmaps
+Learning Roadmaps
+- New Manager Development Plan
+- Leadership Development Roadmap
+- Learning Roadmap Template (.xlsx)
 
-* New Manager Development Plan
-* Leadership Development Roadmap
+Project Management
+- Training Project Tracker (.xlsx)
 
 ### Templates
 
